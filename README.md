@@ -1,2 +1,2 @@
-# PrepCourse-Henry2
-modulo 2 repositorio de prueba 2da vez
+Este proyecto es una prueba por segunda vez de como crear un repositorio y clonarlo de git hub a git local
+
